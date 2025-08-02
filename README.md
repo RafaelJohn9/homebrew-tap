@@ -8,6 +8,6 @@ This is a Homebrew tap for my tools and utilities.
 # Add the tap
 brew tap rafaeljohn9/tap
 
-# Install packages
+# Install packages: example
 brew install rafaeljohn9/tap/gh-templates
 ```
